@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Chatterbot configuration file</comment>
+<entry key="predicates">./Predicates/</entry>
+<entry key="password"></entry>
+<entry key="splitters">splitters.xml</entry>
+<entry key="substitutions">substitutions.xml</entry>
+<entry key="categories">./AIML/</entry>
+<entry key="properties">properties.xml</entry>
+</properties>
